@@ -1,2 +1,3 @@
-# playground
-My personal lab, notes and experiments
+\# playground
+
+My personal lab for experiments with Git, home lab, electronics
